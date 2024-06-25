@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://janujcic.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Jan's Personal Website"
+theme = 'paige'
