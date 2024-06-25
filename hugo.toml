@@ -1,4 +1,47 @@
 baseURL = 'https://janujcic.pages.dev/'
 languageCode = 'en-us'
-title = "Jan's Personal Website"
 theme = 'paige'
+copyright = "Made by Jan Ujcic using [Hugo](https://github.com/gohugoio/hugo) and template [Paige](https://github.com/willfaught/paige)" 
+
+[languages.en]
+title = "Jan's Personal Website"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "About Me"
+name = "About Me"
+url = "/aboutme/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "Projects"
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Thoughts and learning"
+url = "/blog/"
+weight = 40
+
+[params.paige]
+style = """
+#paige-breadcrumbs { display: none; }
+#paige-content > * { margin-left: auto; margin-right: auto; max-width: 40rem; }
+#paige-collections, #paige-sections, #paige-pages { display: none; }
+"""
+external_link_new_tab = true
+menu_style = "pills"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[params.paige.feed.atom.authors]]
+name = "Jan Ujcic"

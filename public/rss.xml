@@ -24,7 +24,7 @@
 
 
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
             
@@ -34,7 +34,7 @@
             
 
             
-                <link href="http://localhost:37365/" rel="self" type="text/html"/>
+                <link href="http://localhost:37811/" rel="self" type="text/html"/>
             
         
             
@@ -42,27 +42,29 @@
             
 
             
-                <link href="http://localhost:37365/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:37811/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
         
 
         
-
-        <description>Recent content</description>
-
-        
-            <language>en-us</language>
+            <copyright>Made by Jan Ujcic using Hugo and template Paige</copyright>
         
 
-        
+        <description>My professional and personal experiences but also my current projects.</description>
 
-        <link>http://localhost:37365/</link>
+        
+            <language>en</language>
+        
 
         
 
-        <title>Jan&rsquo;s Personal Website</title>
+        <link>http://localhost:37811/</link>
+
+        
+
+        <title>Hi, I&rsquo;m Jan!</title>
 
         
 

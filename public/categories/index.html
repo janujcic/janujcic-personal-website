@@ -7,7 +7,7 @@
 
 
 
-<html  data-paige="Paige theme from https://github.com/willfaught/paige"   lang="en-us" >
+<html  data-paige="Paige theme from https://github.com/willfaught/paige"   lang="en" >
 
     
 
@@ -29,7 +29,7 @@
 
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=37365&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=37811&amp;path=livereload" data-no-instant defer></script>
     
 
     
@@ -52,10 +52,10 @@
 <meta content="#0d6efd" name="theme-color">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
-<meta property="og:url" content="http://localhost:37365/categories/">
+<meta property="og:url" content="http://localhost:37811/categories/">
   <meta property="og:site_name" content="Jan&#39;s Personal Website">
   <meta property="og:title" content="Categories">
-  <meta property="og:locale" content="en_us">
+  <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
 
@@ -65,7 +65,7 @@
 
 
     
-        <title>Categories · Jan’s Personal Website</title>
+        <title>Categories · Hi, I’m Jan!</title>
     
 
     
@@ -178,12 +178,29 @@
 
 
 
-    <link href="http://localhost:37365/categories/rss.xml" rel="alternate" type="application/rss+xml">
+    <link href="http://localhost:37811/categories/rss.xml" rel="alternate" type="application/rss+xml">
 
 
     
 
 <style>
+
+    #paige-authors,
+#paige-collections,
+#paige-credit,
+#paige-keywords,
+#paige-prev-next,
+#paige-reading-time,
+#paige-series,
+#paige-toc,
+.paige-authors,
+.paige-date,
+.paige-keywords,
+.paige-reading-time,
+.paige-series,
+.paige-summary {
+    display: none;
+}
 
 
 .paige-figure-numbered {
@@ -454,6 +471,11 @@ table {
 }
 
 
+    #paige-breadcrumbs { display: none; }
+#paige-content > * { margin-left: auto; margin-right: auto; max-width: 40rem; }
+#paige-collections, #paige-sections, #paige-pages { display: none; }
+
+
 
 
 </style>
@@ -496,8 +518,64 @@ table {
 
 
     
+        
+    
 
 
+
+    <nav>
+        <ul class="align-items-center justify-content-center nav  nav-pills ">
+            
+                
+                
+                
+                
+                
+
+                <li class="nav-item ">
+                    <a   class="  nav-link  "  href="/"    >Home</a>
+
+                    
+                </li>
+            
+                
+                
+                
+                
+                
+
+                <li class="nav-item ">
+                    <a   class="  nav-link  "  href="/aboutme/"    >About Me</a>
+
+                    
+                </li>
+            
+                
+                
+                
+                
+                
+
+                <li class="nav-item ">
+                    <a   class="  nav-link  "  href="/projects/"    >Projects</a>
+
+                    
+                </li>
+            
+                
+                
+                
+                
+                
+
+                <li class="nav-item ">
+                    <a   class="  nav-link  "  href="/blog/"    >Thoughts and learning</a>
+
+                    
+                </li>
+            
+        </ul>
+    </nav>
 
 
         
@@ -515,7 +593,7 @@ table {
 
                     
 
-                    <li class="breadcrumb-item"><a href="/">Jan’s Personal Website</a></li>
+                    <li class="breadcrumb-item"><a href="/">Hi, I’m Jan!</a></li>
                 
             </ol>
         </div>
@@ -649,9 +727,11 @@ table {
     
 
     
+        <p class="mb-0 text-center text-secondary" id="paige-copyright">Made by Jan Ujcic using <a href="https://github.com/gohugoio/hugo" target="_blank">Hugo</a> and template <a href="https://github.com/willfaught/paige" target="_blank">Paige</a></p>
+    
 
     <p class="mb-0 text-center" id="paige-credit">
-        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige" >Paige Theme</a>
+        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige"  target="_blank" >Paige Theme</a>
     </p>
 
     

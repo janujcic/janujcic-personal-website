@@ -36,7 +36,7 @@
             
 
             
-                <link href="http://localhost:37811/categories/" rel="self" type="text/html"/>
+                <link href="http://localhost:32811/home/" rel="self" type="text/html"/>
             
         
             
@@ -44,14 +44,12 @@
             
 
             
-                <link href="http://localhost:37811/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:32811/home/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
         
 
-        
-            <copyright>Made by Jan Ujcic using Hugo and template Paige</copyright>
         
 
         <description>Recent content</description>
@@ -62,11 +60,11 @@
 
         
 
-        <link>http://localhost:37811/categories/</link>
+        <link>http://localhost:32811/home/</link>
 
         
 
-        <title>Categories · Hi, I&rsquo;m Jan!</title>
+        <title> · Jan&rsquo;s Personal Website</title>
 
         
 
