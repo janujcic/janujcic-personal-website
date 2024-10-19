@@ -30,3 +30,7 @@ I have a Bachelor's Degree in Mechanical Engineering and a Master's Degree in Me
 - Slovenian - _Native Proficiency_
 - English - _Professional Capacity_
 - French - _Conversational Capacity_
+
+## My previous work
+- Master's Thesis: _Feasibility study of using a piezoresistive sensor for measuring static torque_ ([link](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=130062&lang=slv))
+- Bachelor's Thesis: _Laser manufacturing and detection of pre-marks for correction of encoder shaft thermal expansion_ ([link](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=102493&lang=slv))
