@@ -35,7 +35,6 @@ weight = 40
 style = """
 #paige-breadcrumbs { display: none; }
 #paige-content > * { margin-left: auto; margin-right: auto; max-width: 40rem; }
-#paige-collections, #paige-sections, #paige-pages { display: none; }
 """
 external_link_new_tab = true
 menu_style = "pills"
