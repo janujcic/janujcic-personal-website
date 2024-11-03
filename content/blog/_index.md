@@ -1,1 +1,5 @@
-+++ description = "My thoughts on various subjects." title = "Blog" +++
+---
+title: Blog 
+description: My thoughts on various topics.
+
+---
