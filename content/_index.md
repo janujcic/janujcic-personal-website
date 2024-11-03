@@ -2,6 +2,10 @@
 title: Hi, I'm Jan! 
 description: My professional and personal experiences but also my current projects.
 
+[paige.list_page]
+disable_collections : true
+disable_pages : true
+disable_sections : true
 ---
 
 ## On this page
