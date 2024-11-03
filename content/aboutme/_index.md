@@ -23,7 +23,7 @@ I have a Bachelor's Degree in Mechanical Engineering and a Master's Degree in Me
 - Javascript
 - NoSQL (Elasticsearch)
 - SQL
-- REST APis
+- REST APIs
 - ETL pipelines
       
 #### Languages:
