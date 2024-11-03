@@ -1,1 +1,1 @@
-### WIP
++++ description = "My thoughts on various subjects." title = "Blog" +++
