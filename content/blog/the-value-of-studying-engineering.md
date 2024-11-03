@@ -1,9 +1,9 @@
 ---
-authors = ["Jan Ujcic"]
-categories = ["content"]
-description = "My thoughts on the value of studying engineering."
-tags = ["engineering", "studies", "meta-skills"]
-title = "The Value of Studying Engineering"
+authors: ["Jan Ujcic"]
+categories: ["content"]
+description: "My thoughts on the value of studying engineering."
+tags: ["engineering", "studies", "meta-skills"]
+title: "The Value of Studying Engineering"
 ---
 
 I often reflect on how my engineering studies don't directly relate to the work I do now. Was it worth studying engineering even if I now work in IT? While engineering skills are transferable to to other fields, it raises a deeper question: 
