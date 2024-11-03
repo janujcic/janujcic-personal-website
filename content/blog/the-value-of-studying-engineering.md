@@ -7,11 +7,11 @@ title: "The Value of Studying Engineering"
 ---
 
 I often reflect on how my engineering studies don't directly relate to the work I do now. Was it worth studying engineering even if I now work in IT? While engineering skills are transferable to to other fields, it raises a deeper question: 
-* *"Should education only prepare us for a certain profession?"*
+* *Should education only prepare us for a certain profession?*
 
 It is an interesting question with societal implications, but exploring it would require an entire essay. Maybe one day I'll take the time to synthesize my thoughts on this subject in a coherent piece. Until then, I can only offer some reflections on my own studies, my career so far, and my thoughts on the future. 
 
-I believe it would be hard to find someone who disagrees that studying engineering teaches a way of thinking and problem-solving that is incredibly useful. For some, this comes naturally; others develop it by applying these skills across different problems. The same meta-skills could probably be developed in other fields. What’s interesting is that the most valuable outcome isn’t the direct knowledge gained but the problem-solving approach. You need information to solve a problem, but in the end, it’s just input—two people won't achieve the same result with it [^1].
+I believe it would be hard to find someone who disagrees that studying engineering teaches a way of thinking and problem-solving that is incredibly useful. For some, this comes naturally; others develop it by applying these skills across different problems. The same meta-skills could probably be developed in other fields. What’s interesting is that the most valuable outcome isn’t the direct knowledge gained but the problem-solving approach. You need information to solve a problem, but in the end, it’s just input—two people won't achieve the same result with it [1].
 
 To develop this approach, you need to apply it continuously, refining it through feedback and practice. Solving a few engineering problems doesn't automatically make it natural to apply this process in other areas. This just shows that effort is required, and we rarely muster the willpower or time to do it unless time is dedicated to it That's what years of studying provide. Some people might  develop this approach naturally through work or even hobbies, but for most, the work done during studies shapes their approach to problems throughout life. The lesson is clear: like with most of the things in life  the path walked is more important than the final result. A degree proves that you can solve tough problems, persevere, shift between different layers of abstraction, and learn complex things. It also proves that you developed a way of thinking useful in any field - a process that turns information inputs into something potentially more valuable than someone who hasn't walked that path. 
 
@@ -22,14 +22,14 @@ I believe the future will reward those with well-developed meta-skills -  skills
 In this text, I argued that an engineering education is valuable even if the specific knowledge isn't used daily. It provides a strong foundation, but like any foundation, it requires continuous maintenance and must be built upon to remain useful. Writing this post raised additional questions that, in my opinion, are important in our quest for lifelong learning.
 
 The first question to ask, then, is:
-- _"Am I currently building meta-skills—transferable mental processes—or does my value mostly come from information?"_  
+- _Am I currently building meta-skills—transferable mental processes—or does my value mostly come from information?_  
     Both are essential for success, of course. Someone with excellent processes but no industry knowledge won’t make much of an impact, and the reverse is even less effective. In the fast-changing world ahead, well-developed mental processes will increasingly be rewarded over information alone. Even if meta-skills don’t stand out on a CV, they’re powerful multipliers in the workplace. They also work as multiplicative, not additive systems. If you have all the skills well-developed, but your decision-making process is weak, the overall output suffers. If this analogy resonates, ask yourself:
-- _"Which meta-skill should I focus on developing?"_
+- _Which meta-skill should I focus on developing?_
 
 A more important final question might be:
-* *"Do I have the skills necessary to still create value and impact if all my current knowledge is accessible to everyone with an AI model?"*
+* *Do I have the skills necessary to still create value and impact if all my current knowledge is accessible to everyone with an AI model?*
 Even a strong academic background, deep expertise, or business acumen doesn’t excuse us from reflecting on this question regularly.
 
 
 Footnotes: 
-[^1] Certain foundational knowledge is necessary to process information effectively and integrate it into problem-solving. Education provides this essential base, a critical building block for developing expertise in any field. While meta-skills are invaluable, they can’t replace the deep knowledge needed for nuanced, meaningful outputs.
+[1] Certain foundational knowledge is necessary to process information effectively and integrate it into problem-solving. Education provides this essential base, a critical building block for developing expertise in any field. While meta-skills are invaluable, they can’t replace the deep knowledge needed for nuanced, meaningful outputs.
