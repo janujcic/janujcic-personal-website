@@ -18,17 +18,15 @@
         
     
 
+
+
+
+
+
+
     
 
     
-        
-    
-
-
-
-
-
-
 
 
 
@@ -46,7 +44,7 @@
             
 
             
-                <link href="http://localhost:1313/" rel="self" type="text/html"/>
+                <link href="http://localhost:1313/categories/blog/" rel="self" type="text/html"/>
             
         
             
@@ -54,7 +52,7 @@
             
 
             
-                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:1313/categories/blog/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
@@ -64,7 +62,7 @@
             <copyright>Made by Jan Ujcic using Hugo and template Paige</copyright>
         
 
-        <description>My professional and personal experiences but also my current projects.</description>
+        <description>Recent content</description>
 
         
             <language>en</language>
@@ -72,11 +70,11 @@
 
         
 
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:1313/categories/blog/</link>
 
         
 
-        <title>Hi, I&rsquo;m Jan!</title>
+        <title>Blog · Categories · Hi, I&rsquo;m Jan!</title>
 
         
 
@@ -144,54 +142,6 @@ Even a strong academic background, deep expertise, or business acumen doesn’t 
 
                 
                     <title>The Value of Studying Engineering</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-                
-
-                
-
-                
-
-                
-                    <description><![CDATA[<p>On LinkedIn and other platforms, you often see lists filled with amazing advice or thought-provoking ideas. They come in titles like: “20 Lessons for My Younger Self,” “14 Habits of High Performers,” or “12 Behaviors of People with High Emotional IQ.” Reading them, you might think, “Wow, this is great advice, I should remember it.” But then, you keep scrolling, and the advice is forgotten.</p>
-<p>These posts or videos are perfect for clicks, likes, and engagement. They’re quick, easy to read, and spark curiosity. But do they lead to any meaningful change? For me, the answer is a simple no. Being bombarded with so many ideas at once almost guarantees you won’t remember any of them. Worse, it can feel like meaningful content, but it rarely is. The lists tend to be repetitive and rarely introduce anything new. Still, they give us a sense of productivity even if we’re just mindlessly scrolling.</p>
-<p>In my experience, to truly benefit from content, you need time to think about it. You need examples, reflection, and just enough friction for it to stick in your memory and build new connections. A post focused on a single idea is often more powerful and more likely to create lasting impact. Even then, it usually requires multiple engagements to make a difference. Reading the same point in different ways can reinforce a thought, but it rarely leads to deeper change. I think this is true for all short-form content online: great for sparking ideas, terrible for retention or real change.</p>
-<p>Do creators of this content know this? Probably. They likely don’t expect their posts to change anyone’s life. The posts are fun, but personally, I started to prefer longer articles or essays. They take more time to read and don’t give the instant gratification as easily, but they’re usually more meaningful.</p>
-<p>As consumers of content, I’d argue it’s better to engage with longer content, even if it triggers less dopamine or doesn’t inspire big, sweeping changes. Small, simple changes, done with enough self-reflection, have a bigger impact than flashy lists. So next time you’re reading one of those lists, think about how you could implement just one high-value change in your life and skip the rest.</p>
-]]></description>
-                
-
-                <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/blog/self-improvement-lists/</guid>
-
-                
-                    <link>http://localhost:1313/blog/self-improvement-lists/</link>
-                
-
-                
-                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-                
-
-                
-                    <title>Self-improvement Lists</title>
                 
             </item>
         

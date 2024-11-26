@@ -36,7 +36,7 @@
             
 
             
-                <link href="http://localhost:37811/categories/" rel="self" type="text/html"/>
+                <link href="http://localhost:1313/categories/" rel="self" type="text/html"/>
             
         
             
@@ -44,7 +44,7 @@
             
 
             
-                <link href="http://localhost:37811/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="http://localhost:1313/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
@@ -62,7 +62,7 @@
 
         
 
-        <link>http://localhost:37811/categories/</link>
+        <link>http://localhost:1313/categories/</link>
 
         
 
