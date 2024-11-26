@@ -1,7 +1,7 @@
 ---
 authors: ["Jan Ujcic"]
 categories: ["projects"]
-description: "A short DailyMail project overview."
+description: "A short DailyEmail project overview."
 tags: ["daily-mail", "python", "aws"]
 title: "DailyEmail"
 ---
