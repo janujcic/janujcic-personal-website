@@ -6,6 +6,8 @@ tags: ["self-improvement", "productivity"]
 title: "Self-improvement Lists"
 ---
 
+## Self-improvement Lists
+
 On LinkedIn and other platforms, you often see lists filled with amazing advice or thought-provoking ideas. They come in titles like: “20 Lessons for My Younger Self,” “14 Habits of High Performers,” or “12 Behaviors of People with High Emotional IQ.” Reading them, you might think, “Wow, this is great advice, I should remember it.” But then, you keep scrolling, and the advice is forgotten.
 
 These posts or videos are perfect for clicks, likes, and engagement. They’re quick, easy to read, and spark curiosity. But do they lead to any meaningful change? For me, the answer is a simple no. Being bombarded with so many ideas at once almost guarantees you won’t remember any of them. Worse, it can feel like meaningful content, but it rarely is. The lists tend to be repetitive and rarely introduce anything new. Still, they give us a sense of productivity even if we’re just mindlessly scrolling.
