@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 <html lang="en">
 
@@ -9,11 +11,20 @@
 </head>
 
 <body>
-  <h1>Hi and welcome!</h1>
-  <p>I'm Jan and I'm very happy that you happened to stumble on this little piece of Internet property where
-    I can share my thoughts and ideas without being tied to a specific platform. Indeed, personal websites are cool
-    again
-    and since I quite enjoy reading other people's websites I decided to make my own.</p>
+  <main>
+    <h1>Hi and welcome!</h1>
+    <p>I'm Jan and I'm very happy that you happened to stumble on this little piece of Internet property where
+      I can share my thoughts and ideas without being tied to a specific platform. Indeed, personal websites are cool
+      again
+      and since I quite enjoy reading other people's websites I decided to make my own.</p>
+
+    <h2>Posts</h2>
+    <ul>
+      {% for post in collections.posts %}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </main>
 </body>
 
 </html>
