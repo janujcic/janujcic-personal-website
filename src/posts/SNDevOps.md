@@ -4,6 +4,7 @@ categories: ["projects"]
 description: "A short description of SNDevOps extension."
 tags: ["extensions", "ServiceNow", "Azure DevOps"]
 title: "SNDevOps Extension"
+layout: post.html
 ---
 
 ## Project Overview: SNDevOps Extension

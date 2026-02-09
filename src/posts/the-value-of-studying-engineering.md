@@ -4,6 +4,7 @@ categories: ["blog"]
 description: "My thoughts on the value of studying engineering."
 tags: ["engineering", "studies", "meta-skills"]
 title: "The Value of Studying Engineering"
+layout: post.html
 ---
 
 ## The Value of Studying Engineering

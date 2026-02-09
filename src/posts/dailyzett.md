@@ -4,6 +4,7 @@ categories: ["projects"]
 description: "A short DailyEmail project overview."
 tags: ["daily-mail", "python", "aws"]
 title: "DailyEmail"
+layout: post.html
 ---
 
 ## Project Overview: Daily Email
