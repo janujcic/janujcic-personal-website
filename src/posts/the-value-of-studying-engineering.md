@@ -27,7 +27,7 @@ In this text, I argued that an engineering education is valuable even if the spe
 
 The first question to ask, then, is:
 
-- _Am I currently building meta-skills—transferable mental processes—or does my value mostly come from information?_  
+- _Am I currently building meta-skills—transferable mental processes, or does my value mostly come from information?_  
    Both are essential for success, of course. Someone with excellent processes but no industry knowledge won’t make much of an impact, and the reverse is even less effective. In the fast-changing world ahead, well-developed mental processes will increasingly be rewarded over information alone. Even if meta-skills don’t stand out on a CV, they’re powerful multipliers in the workplace. They also work as multiplicative, not additive systems. If you have all the skills well-developed, but your decision-making process is weak, the overall output suffers. If this analogy resonates, ask yourself:
 - _Which meta-skill should I focus on developing?_
 
