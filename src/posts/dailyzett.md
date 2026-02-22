@@ -29,7 +29,7 @@ You can find the Python on my Github: https://github.com/janujcic/daily-mail
 
 ## Value
 
-Receiving a random note every day has been very valuable for me. I helps me remember important takeaways, sparks new ideas for my daily life, and it nudges me to explore the related items in my Zettelkasten. It reduces the friction to go through your notes and triggers the creation of new ones based on your current life/work context. Often a note brought up in a random context later on has completely different meaning and relevance than it did initially. I also often create new notes based on the ideas that pop-up when reading it.
+Receiving a random note every day has been very valuable for me. It helps me remember important takeaways, sparks new ideas for my daily life, and it nudges me to explore the related items in my Zettelkasten. It reduces the friction to go through your notes and triggers the creation of new ones based on your current life/work context. Often a note brought up in a random context later on has completely different meaning and relevance than it did initially. I also often create new notes based on the ideas that pop-up when reading it.
 
 Over time, I've added others to the recipient list and they also enjoyed it. The notes are mostly my ideas and thoughts but they bring some interesting perspectives for them too. In the future I plan be more selective about which notes to share and which ones need more refinement.
 
