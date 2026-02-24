@@ -5,6 +5,7 @@ description: "A short DailyEmail project overview."
 tags: ["daily-mail", "python", "aws"]
 title: "DailyEmail"
 layout: post.html
+date: 2024-11-26
 ---
 
 ## Project Overview: Daily Email
@@ -25,7 +26,7 @@ It's that simple. The code runs on a serverless AWS Lambda function which is fre
 
 I've been using the DailyZett for years now and recently I've added a feature that prevents notes from repeating too much. A note can only reappear after a specified period. Additionally, the recipients can be added more easily with a simple config stored in the Google Drive.
 
-You can find the Python on my Github: https://github.com/janujcic/daily-mail
+You can find the Python code on my Github: https://github.com/janujcic/daily-mail
 
 ## Value
 

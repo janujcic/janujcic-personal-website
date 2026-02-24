@@ -5,6 +5,7 @@ description: "Are those long self-improvement lists on LinkedIn valuable?"
 tags: ["self-improvement", "productivity"]
 title: "Self-improvement Lists"
 layout: post.html
+date: 2024-11-04
 ---
 
 ## Self-improvement Lists

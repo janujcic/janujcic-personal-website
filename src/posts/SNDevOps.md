@@ -5,6 +5,7 @@ description: "A short description of SNDevOps extension."
 tags: ["extensions", "ServiceNow", "Azure DevOps"]
 title: "SNDevOps Extension"
 layout: post.html
+date: 2024-11-26
 ---
 
 ## Project Overview: SNDevOps Extension

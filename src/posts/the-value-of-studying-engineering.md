@@ -5,6 +5,7 @@ description: "My thoughts on the value of studying engineering."
 tags: ["engineering", "studies", "meta-skills"]
 title: "The Value of Studying Engineering"
 layout: post.html
+date: 2024-11-03
 ---
 
 ## The Value of Studying Engineering
