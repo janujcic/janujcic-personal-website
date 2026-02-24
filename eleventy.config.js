@@ -6,6 +6,14 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/posts/*.md").reverse();
   });
 
+  eleventyConfig.addFilter("readableDate", function (value) {
+    return new Date(value).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+  });
+
   return {
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
