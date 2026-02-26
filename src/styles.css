@@ -13,6 +13,26 @@ body {
   background: #faf8f5;
 }
 
+.site-logo {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.site-logo img {
+  display: block;
+}
+
+.site-logo:focus-visible {
+  outline: 2px solid #0b5fff;
+  outline-offset: 3px;
+}
+
 main {
   max-width: 720px;
   margin: 0 auto;
