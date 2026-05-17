@@ -14,5 +14,15 @@ The story is a pleasant read. The old shephard was not replanting the forest for
 
 The book can be found for free online since it is royalty-free. There is also an animated movie based on the book available with both [English](https://www.youtube.com/watch?v=epTqUnKsuUY) and [French](https://www.youtube.com/watch?v=yKhdij8D770) narration.
 
-![The Man Who Planted Trees (Paperback 2023)](/images/posts/the-man-who-planted-trees.png)
-*Source: [Illustrated by Harry Brockway](https://www.amazon.com/Man-Who-Planted-Trees/dp/1784878014)*
+<figure>
+  <img
+    src="/images/the-man-who-planted-trees.png"
+    alt="The Man Who Planted Trees (Paperback 2023)"
+  />
+  <figcaption>
+    Source:
+    <a href="https://www.amazon.com/Man-Who-Planted-Trees/dp/1784878014">
+      Illustrated by Harry Brockway
+    </a>
+  </figcaption>
+</figure>
