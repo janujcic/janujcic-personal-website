@@ -16,7 +16,7 @@ The book can be found for free online since it is royalty-free. There is also an
 
 <figure>
   <img
-    src="/images/the-man-who-planted-trees.png"
+    src="/images/posts/the-man-who-planted-trees.png"
     alt="The Man Who Planted Trees (Paperback 2023)"
   />
   <figcaption>
